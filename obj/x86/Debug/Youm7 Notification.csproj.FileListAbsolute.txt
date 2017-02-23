@@ -1,0 +1,5 @@
+C:\Users\aalakied\Desktop\youm7\obj\x86\Debug\Youm7 Notification.csprojResolveAssemblyReference.cache
+C:\Users\aalakied\Desktop\youm7\bin\Debug\Youm7 Notification.exe
+C:\Users\aalakied\Desktop\youm7\bin\Debug\Youm7 Notification.pdb
+C:\Users\aalakied\Desktop\youm7\obj\x86\Debug\Youm7 Notification.exe
+C:\Users\aalakied\Desktop\youm7\obj\x86\Debug\Youm7 Notification.pdb
